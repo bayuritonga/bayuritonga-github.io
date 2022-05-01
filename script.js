@@ -9,7 +9,7 @@ Iya.addEventListener("click", function () {
     if (Iya.value == 1) {
         Text.classList.remove('text-animate');
         void Text.offsetWidth; 
-        Text.innerHTML = "Hallo ini saya Budi";
+        Text.innerHTML = "Hallo ini saya Bayu Surbana Ritonga";
         Text.classList.add('text-animate');
     }else if (Iya.value == 2) {
         Text.classList.remove('text-animate');
